@@ -1,10 +1,1 @@
-"welcome to Git Environment"
-"welcome to Git Environment"
-"welcome to Git Environment"
-"welcome to Git Environment"
-"welcome to Git Environment"
-"welcome to Git Environment"
-"welcome to Git Environment"
-"welcome to Git Environment"
-"welcome to Git Environment"
-"welcome to Git Environment"
+This is a test environment.
